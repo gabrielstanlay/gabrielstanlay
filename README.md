@@ -7,7 +7,7 @@
   <img align="center" alt="c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
     <img align="center" alt="csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="c++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg">
+  <img align="center" alt="lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
