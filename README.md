@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/gabrielstanlay">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielstanlay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielstanlay&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielstanlay&layout=compact&langs_count=7&theme=dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielstanlay&layout=compact&bg_color=131313&border_color=FFF&title_color=E94D5F&text_color=FFF)"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
